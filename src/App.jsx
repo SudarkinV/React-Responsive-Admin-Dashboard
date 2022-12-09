@@ -5,6 +5,7 @@ import Blank from './pages/Blank'
 function App() {
     return (
         <div>
+            hello
             <Blank />
         </div>
     )
